@@ -1,6 +1,6 @@
 # GHSROS_MS
 Supplemental information, code, and data for the MS: 
-Patrick B. Thomas, Inge Seim, Eliza Whiteside, Carina Walpole, Michelle Maugham, Lidija Jovanovic, Jennifer H. Gunter, Colleen C. Nelson, Adrian C. Herington, Rakesh Veedu, Penny L. Jeffery, Lisa K. Chopin. *The long non-coding RNA GHSROS promotes tumor growth and mediates expression of genes associated with metastasis and adverse disease outcome*.
+Patrick B. Thomas, Penny L. Jeffery, Manuel D. Gahete, Eliza Whiteside, Carina Walpole, Michelle Maugham, Lidija Jovanovic, Jennifer H. Gunter, Colleen C. Nelson, Adrian C. Herington, Raúl M. Luque, Rakesh Veedu, Lisa K. Chopin, Inge Seim. *The long non-coding RNA GHSROS promotes tumor growth and mediates expression of genes associated with metastasis and adverse disease outcome*.
 
 *Summary*:
 See individual scripts for additional information.
